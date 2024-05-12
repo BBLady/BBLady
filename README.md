@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @BBLady
+- 👋 Hi, I’m Xueying Jia, Shirley. 
 - 👀 I’m interested in Generative AI 
 - 🌱 I’m currently learning Large Language Model System, Speech, Multimodel Machine Learning, 3D Generation...
 - 💞️ I’m looking to collaborate on some open-source project for machine learning pipeline.
 - 😄 Pronouns: She/Her.
-- ⚡ Fun fact: My English name Shirley sounds like my Chinese name Xueying 🤪
+- ⚡ Fun fact: My English name is Shirley, which sounds like my Chinese name, Xueying. I often call myself BB Lady because "BB" is a fun way to describe someone who loves to chat a lot in Chinese!  🤪
 - 📫 How to reach me: xjia2@andrew.cmu.edu
