@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @BBLady
+- 👀 I’m interested in Generative AI 
+- 🌱 I’m currently learning Large Language Model System, Speech, Multimodel Machine Learning, 3D Generation...
+- 💞️ I’m looking to collaborate on some open-source project for machine learning pipeline.
+- 😄 Pronouns: She/Her.
+- ⚡ Fun fact: My English name Shirley sounds like my Chinese name Xueying 🤪
+- 📫 How to reach me: xjia2@andrew.cmu.edu
