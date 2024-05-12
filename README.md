@@ -5,3 +5,12 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: My English name is Shirley, which sounds like my Chinese name, Xueying. I often call myself BB Lady because "BB" is a fun way to describe someone who loves to chat a lot in Chinese!  🤪
 - 📫 How to reach me: xjia2@andrew.cmu.edu
+
+```
+const thai = {
+  pronouns: "she" | "her",
+  code: [Python, C, C++, Javascript, SQL, Java, HTML, CSS],
+  machine learning tech stacks: [PyTorch, TensorFlow, HuggingFace; AWS, Google Cloud Platform, Colab],
+  software engineering tech stacks: [Node.js, Flask, FastAPI, Django, Redis; React.js, Vue.js, ECharts; MongoDB, MySQL, SQLite; Git; tmux; Docker, CI/CD],
+}
+```
